@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:firstapp/gg.dart';
 
-import 'package:flutter/material.dart';
-
 void main() {
   runApp(const UpdatePage());
 }
